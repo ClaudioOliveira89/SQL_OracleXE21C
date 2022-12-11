@@ -64,7 +64,7 @@ Select * from cliente;
 2	     JosÃ© Antonio		  02/05/85	  51144722241
 3	     JoÃ£o Carlos		    03/05/93	  84882273292
 4	     Edivaldo Santana	              01/06/00	  30609426176
-5	     Cristina Oliveira	            16/08/99	  56313586700
+5	     Cristina Oliveira	              16/08/99	  56313586700
 6	     Artur da Silva		  06/05/01	  67491246583
 7	     Adrina Domingues	              01/02/72	  22044617250
 8	     Amanda Silva		    02/02/88	  34778798201
