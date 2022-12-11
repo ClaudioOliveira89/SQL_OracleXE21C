@@ -53,8 +53,8 @@ WHERE pedido.vltotal = (select max(vltotal) from pedido);
 
 NOME                                       CPF           		VLTOTAL
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- ----------- --------------------------------------------------------------------------------------
-Hugo Batista                               51898608253     		 590,1
-Cristina Oliveira                          56313586700    	 	 2590,1
+Hugo Batista                               51898608253     		590,1
+Cristina Oliveira                          56313586700    	 	2590,1
 
 
 
@@ -89,5 +89,5 @@ ON itempedido.idpedido = cliente.idcliente
 WHERE itempedido.quantidade = (SELECT MAX(quantidade) from itempedido)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-IDPEDIDO  	NOME                    QUANTIDADE                    NRITEM
-5	  	Cristina Oliveira	      3	                            1
+IDPEDIDO  NOME                    QUANTIDADE                    NRITEM
+5	  Cristina Oliveira	      3	                            1
