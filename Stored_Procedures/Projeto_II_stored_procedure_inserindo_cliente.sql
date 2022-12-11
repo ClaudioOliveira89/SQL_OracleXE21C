@@ -61,9 +61,9 @@ Select * from cliente;
 
 
 ID               Nome                             Datanascimento           CPF
-1	     Hugo Batista		  05/02/90	                51898608253
-2	     JosÃ© Antonio		  02/05/85	              51144722241
-3	     JoÃ£o Carlos		  03/05/93	                84882273292
+1	     Hugo Batista		  05/02/90	               51898608253
+2	     JosÃ© Antonio		  02/05/85	               51144722241
+3	     JoÃ£o Carlos		  03/05/93	               84882273292
 4	     Edivaldo Santana	              01/06/00	                30609426176
 5	     Cristina Oliveira	              16/08/99	              56313586700
 6	     Artur da Silva		  06/05/01	                    67491246583
