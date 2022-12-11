@@ -60,7 +60,7 @@ __ ' Como ficou a consulta após a inserção na Procedure'.
 Select * from cliente;
 
 
-ID              Nome                              Datanascimento           CPF
+ID               Nome                              Datanascimento           CPF
 1	     Hugo Batista		  05/02/90	  51898608253
 2	     JosÃ© Antonio		  02/05/85	  51144722241
 3	     JoÃ£o Carlos		  03/05/93	  84882273292
