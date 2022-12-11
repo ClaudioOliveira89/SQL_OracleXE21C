@@ -90,4 +90,4 @@ WHERE itempedido.quantidade = (SELECT MAX(quantidade) from itempedido)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 IDPEDIDO  	  NOME                    QUANTIDADE                    NRITEM
-5	  Cristina Oliveira	      3	                            1
+5	  Cristina Oliveira	   3	                            1
