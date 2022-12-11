@@ -1,0 +1,10 @@
+DECLARE
+  CODIGO NUMBER;
+BEGIN
+  CODIGO := 1;
+
+  RETORNA_DADOS_CLIENTE(
+    CODIGO => CODIGO
+  );
+--rollback; 
+END;
