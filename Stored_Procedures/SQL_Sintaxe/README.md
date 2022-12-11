@@ -1,1 +1,0 @@
-# Scripts de consultas DQL
