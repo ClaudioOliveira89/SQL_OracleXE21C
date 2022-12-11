@@ -70,7 +70,7 @@ WHERE itempedido.nritem = (SELECT MAX(nritem) from itempedido)
 
 IDPEDIDO     QUANTIDADE 	DESCRICAO        		IDPRODUTO   NRITEM
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  1          1 			SAMSUNG J7 - PRIME  1         	2
+  1          1 		SAMSUNG J7 - PRIME  1         	2
   2        	 1 		SAMSUNG J5 - PRIME  2         	2
   3        	 1	 	IPHONE X            3          	2
 
@@ -90,4 +90,4 @@ WHERE itempedido.quantidade = (SELECT MAX(quantidade) from itempedido)
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
 IDPEDIDO      NOME                    QUANTIDADE                    NRITEM
-5	      ristina Oliveira	      3	                            1
+5	    Cristina Oliveira	      3	                            1
