@@ -1,6 +1,6 @@
-Lingaguem DQL
+--Lingaguem DQL
 
-Códigos para consultas
+--Códigos para consultas
 
 SELECT cliente.nome,cliente.cpf, pedido.vltotal
 FROM cliente INNER JOIN pedido
