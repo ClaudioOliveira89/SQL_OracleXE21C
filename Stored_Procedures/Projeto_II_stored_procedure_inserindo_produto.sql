@@ -59,7 +59,7 @@ ID            Descrição                            Quantidade
 9	  ONEPLUS 10PRO		   12
 6	  SAMSUNG GALAXY S22	               15
 7	  APPLE IPHONE 13 MINI	               20
-8	  ASUS ZENFONE8		      16
+8	  ASUS ZENFONE8		   16
 10	  MOTOROLA EDGE30		   15
 11	  ASUS ROGPHONE6 		   8
 ____________________________________________________________
