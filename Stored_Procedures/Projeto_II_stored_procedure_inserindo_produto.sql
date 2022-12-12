@@ -51,6 +51,7 @@ _____________________________________________________________
 SELECT * FROM produto;
 
 ID            Descrição                            Quantidade
+______________________________________________________________
 1	  SAMSUNG J7 - PRIME	               10
 2	  SAMSUNG J5 - PRIME	               10
 3	  IPHONE X		               10
