@@ -55,8 +55,8 @@ ID            Descrição                            Quantidade
 2	  SAMSUNG J5 - PRIME	               10
 3	  IPHONE X		               10
 4	  MOTO G 5S		               10
-5	  IPHONE 6S		                  10
-9	  ONEPLUS 10PRO		             12
+5	  IPHONE 6S		               10
+9	  ONEPLUS 10PRO		         12
 6	  SAMSUNG GALAXY S22	             15
 7	  APPLE IPHONE 13 MINI	            20
 8	  ASUS ZENFONE8		                    16
