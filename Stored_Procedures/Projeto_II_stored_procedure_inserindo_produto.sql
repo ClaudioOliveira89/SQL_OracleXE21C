@@ -51,10 +51,10 @@ _____________________________________________________________
 SELECT * FROM produto;
 
 ID            Descrição                            Quantidade
-1	  SAMSUNG J7 - PRIME	                     10
-2	  SAMSUNG J5 - PRIME	                     10
-3	  IPHONE X		                             10
-4	  MOTO G 5S		                             10
+1	  SAMSUNG J7 - PRIME	               10
+2	  SAMSUNG J5 - PRIME	               10
+3	  IPHONE X		                      10
+4	  MOTO G 5S		                      10
 5	  IPHONE 6S		                             10
 9	  ONEPLUS 10PRO		                         12
 6	  SAMSUNG GALAXY S22	                     15
