@@ -68,8 +68,8 @@ ID               Nome                             Datanascimento           CPF
 5	     Cristina Oliveira	              16/08/99	               56313586700
 6	     Artur da Silva		  06/05/01	               67491246583
 7	     Adrina Domingues	              01/02/72	               22044617250
-8	     Amanda Silva		  02/02/88	                 34778798201
-9	     Denis Soares		  14/10/72	                 35423788102
+8	     Amanda Silva		  02/02/88	               34778798201
+9	     Denis Soares		  14/10/72	               35423788102
 10	     Pedro Algusto		  21/10/82	                35477141002
 11	     Aghata Cristina		  30/10/90	                88599742638
 
